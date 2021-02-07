@@ -69,8 +69,6 @@ public class Product {
 	public void setOrders(Set<Orders> orders) {
 		this.orders = orders;
 	}
-	
-	
 }
 
 
