@@ -2,7 +2,7 @@ package com.springbootweektwo.inventoryManagement.util;
 
 public enum MembershipLevel {
 
-	SILVER(0.5),
+	SILVER(0.05),
 	GOLD(.10),
 	DIAMOND(.15),
 	PLATINUM(.20);
